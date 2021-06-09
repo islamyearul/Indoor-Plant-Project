@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	background: #fff;
+}
+/*Form*/
+	.registration form label{
+	color: #7D7A75;
+	font-size: 15px;
+	display: block;	
+	margin-bottom: 5px;
+	padding-top: 10px;
+  }
+  .registration form input{
+	height: 50px;
+	width: 100%;
+	margin-bottom: 10px;
+	border: 1px solid #7D7A75;
+   }
+    .registration .btn{
+	border: none;
+	border-radius: 5px;
+	font-weight: 400;
+	font-size: 20px;
+   }
+   .registration .bottom h5{
+	font-weight: 400;
+   }
+   .registration .bottom a{
+	font-size: 20px;
+   }
+   .registration .bottom{
+	background-image: url(../img/carousel-bg.png);
+	background-repeat: no-repeat;
+	background-size: 50%;
+	background-position: bottom left;
+}
+/*Form*/

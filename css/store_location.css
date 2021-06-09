@@ -1,0 +1,42 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+.navbar{
+	background: #fff;
+}
+/*Covid Section*/
+.covid{
+	background-color: #F8F8F7;
+
+}
+/*Covid Section*/
+/*location Section*/
+	.location img{
+	width: 100%;
+	height: auto;
+  }
+   .location a{
+	font-size: 20px;
+	font-weight: 500;
+   }
+   .location button{
+	padding: 15px 25px;
+	background-color: #fff;
+	font-size: 20px;
+	border: 1px solid #A9A5A5;
+   }
+   .location .street p{
+   	display: inline-block;
+   }
+   .location .street span{
+   	color: #fff;
+   	height: 50px;
+   	width: 50px;
+   	padding:5px;
+   	font-size: 8pt;
+   	border-radius: 50%;
+   	margin:10px 5px;
+
+   }
+/*location Section*/

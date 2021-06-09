@@ -1,0 +1,14 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	background: #fff;
+}
+
+/**/
+.cart i{
+	padding:200px 500px;
+	font-size: 50pt;
+	margin: 0 auto;
+}

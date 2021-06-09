@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.navbar{
+	background: #fff;
+}
+
+/*Form Section*/
+.form form label{
+	color: #7D7A75;
+	font-size: 15px;
+	display: block;	
+	margin-bottom: 5px;
+	padding-top: 10px;
+}.form form input{
+	height: 50px;
+	width: 100%;
+	margin-bottom: 10px; 
+	border: 1px solid #7D7A75;
+}
+.form .btn{
+	border: none;
+	border-radius: 5px;
+	font-weight: 400;
+	font-size: 20px;
+}
+.form .bottom h5{
+	font-weight: 400;
+}
+.form .bottom a{
+	font-size: 20px;
+}
+.form .bottom{
+	background-image: url(../img/carousel-bg.png);
+	background-repeat: no-repeat;
+	background-size: 30%;
+	background-position: bottom left;
+}
+/*Form Section*/
